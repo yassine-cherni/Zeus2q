@@ -1,6 +1,6 @@
 # https://www.systemtechnologyworks.com/
 
-import aim
+import aiml
 import pyaudio
 import subprocess
 import time
